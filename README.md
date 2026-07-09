@@ -1,4 +1,4 @@
-Project Name: RDK X5-Based Bipedal Interactive Robot.
+Project Name:Intelligent bipedal companion robot based on RDK X5 and AI automatic composition optimization.
 Contains 3 subdirectories: Basic_Bipedal_Movement_Demo, Claude_Smart_QA_Demo, and Command_Photography_Upload_Demo.
 
 Basic_Bipedal_Movement_Demo
