@@ -1,0 +1,8 @@
+numpy==1.26.4
+onnxruntime==1.18.1
+openai==1.70.0
+pygame==2.6.0
+pypot@ git+https://github.com/pollen-robotics/pypot@support-feetech-sts3215
+rustypot==0.1.0
+scipy==1.15.1
+smbus2>=0.4.0
